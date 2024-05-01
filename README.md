@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">👋 Hello! I'm [Your Name]</h1>
-<h3 align="center">[Your Position or Role]</h3>
+<h1 align="center">👋 Hello! I'm Sasiri Jambugaswaththa</h1>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn"></a>
@@ -24,14 +24,15 @@ Here are some ideas to get you started:
   <a href="https://www.yourwebsite.com"><img src="https://img.shields.io/badge/-Website-green" alt="Personal Website"></a>
 </p>
 
+<!--
 ---
 
 - 🔭 I’m currently working on [Project or Job Title]
 - 🌱 I’m currently learning [Technology or Skill]
 - 👯 I’m looking to collaborate on [Project or Idea]
 - 💬 Ask me about [Your expertise or interest]
-- 📫 How to reach me: [Your Email Address]
-
+- 📫 How to reach me: jambugaswattasas
+-->
 ---
 
 ### 🛠️ Tools & Technologies
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
+<!--
 ### 🚀 Projects
 
 #### [Project Name 1](Link to Project Repo)
@@ -60,7 +61,7 @@ Here are some ideas to get you started:
 - Technologies used.
 
 ---
-
+-->
 ### 📊 GitHub Stats
 
 <p align="center">
